@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RedMart-Assignment</string>
+    <string name="emptyTag">tag</string>
+    <string name="err.productDetailsNotFound">Product details not found</string>
+    <string name="err.noNetwork">No Network !</string>
+</resources>
